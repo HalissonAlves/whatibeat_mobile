@@ -7,7 +7,7 @@ const SignIn: React.FC = () => {
     <Container>
       <Text>SignIn Page</Text>
     </Container>
-  )
-}
+  );
+};
 
 export default SignIn;
